@@ -1,12 +1,11 @@
 Requirement #4: Visit
 +++++++++++++++++++++
 
-.. note:: Virtual museum visits
-
+.. note:: **Virtual museum visits**
 	  Many museums are offering virtual visits. For example, the Smithsonian *National Air and Space Museum* has a very nice collection of online material. Check it out `here <https://airandspace.si.edu/anywhere>`__. 
 
 	  .. figure:: _images/airspace.png
-	     :width: 600px
+	     :width: 500px
 	     :align: center
 	     :alt: alternate text
 	     :figclass: align-center
@@ -28,9 +27,6 @@ C. Take a real or online tour of a wind tunnel facility. A real tour may be obta
 
 	     <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/wFTHh-6jIT8?start=11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 	      
-.. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
-
-
 .. note:: **Best Aviation Museums in the Country**
 
    According to this `website <https://novaupandaway.readthedocs.io/>`__, here are some of the best aviation Museums to Visit in the U.S.
@@ -43,9 +39,10 @@ C. Take a real or online tour of a wind tunnel facility. A real tour may be obta
 	  6. Wings Over the Rockies Air & Space Museum — Denver, Colorado
 	  7. Southern Museum of Flight — Birmingham, Alabama
 	  8. Air Zoo — Portage, Michigan
-   9. The Museum of Flight — Seattle, Washington
+	  9. The Museum of Flight — Seattle, Washington
 	  10. Evergreen Aviation Museum — McMinnville, Oregon
 	  11. Intrepid Sea, Air & Space Museum — New York, New York
 	  12. Virginia Air and Space Center — Hampton, Virginia
 	  13. Wings of Eagles Discovery Center — Horseheads, New York
 	       
+.. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
