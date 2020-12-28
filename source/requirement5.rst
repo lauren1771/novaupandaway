@@ -2,6 +2,13 @@ Requirement #5: Fluid Dynamics @ Life
 +++++++++++++++++++++++++++++++++++++
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor how fluid dynamics is present in your everyday life and what you learned by working on this Nova.
+
+.. note:: How do planes fly?
+			
+   .. raw:: html
+
+      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/wFTHh-6jIT8?start=11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	      
       
 .. Admonition:: Fluid Dynamics and Art
 	  

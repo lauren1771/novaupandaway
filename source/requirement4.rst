@@ -48,12 +48,6 @@ C. Take a real or online tour of a wind tunnel facility. A real tour may be obta
       <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/TTN4xVi6UJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
    
-.. note:: How do planes fly?
-			
-   .. raw:: html
-
-      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/wFTHh-6jIT8?start=11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-	      
 .. note:: **Best Aviation Museums in the Country**
 
    According to this `website <https://novaupandaway.readthedocs.io/>`__, here are some of the best aviation Museums to Visit in the U.S.
