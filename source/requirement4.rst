@@ -29,13 +29,24 @@ A. Visit an iFLY Indoor Skydiving wind tunnel facility or other BSA approved ind
 	    
 B. Visit an observatory, research facility, or a museum that highlights flight, aviation, or space. During your visit, talk to a docent or staff member about flight and fluid dynamics concepts covered at the site. Discuss what you learned with your counselor.
 
+.. tip:: find a list of some US museums at the bottom of this page!
+
 C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field.
 
-.. tip:: A vitual Wind Tunnel: the physical facility is replaced by a computational (or virtual one). 
+.. tip::
+
+   **A vitual Wind Tunnel: the physical facility is replaced by a computational (or virtual one).**
 
    .. raw:: html
 
-      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/JA_nm1ysW0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/JA_nm1ysW0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+   **Developing military aircraft in a wind tunnel**
+
+   .. raw:: html
+
+      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/TTN4xVi6UJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
    
 .. note:: How do planes fly?
 			
