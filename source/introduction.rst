@@ -8,9 +8,9 @@ This Nova Award explores the world of fluid dynamics, and how it affects your ev
 
 .. note:: **What is fluid dynamics?**
 
-   The very informative site `kids.kiddle.co <https://kids.kiddle.co/Fluid_dynamics>`__ offers a great introduction to what *fluid dynamics is*. The authors of that website provide the following definition. 
+   The very informative site `kids.kiddle.co <https://kids.kiddle.co/Fluid_dynamics>`__ offers a great introduction to what *fluid dynamics is*. The authors of that website provide the following definition:
 
-   Fluid Dynamics talks about how fluids (liquids and gases) work. It is one of the oldest parts of the study of Physics, and is studied by physicists, mathematicians, and engineers. Mathematics can describe how fluids move using mathematical formulas called equations. The fluid dynamics of gases are called aerodynamics.
+   Fluid Dynamics talks about how fluids (liquids and gases) work. It is one of the oldest parts of the study of Physics, and is studied by physicists, mathematicians, and engineers. Mathematics can describe how fluids move using mathematical formulas called equations. The fluid dynamics of gases are called *aerodynamics*.
 
    .. figure:: _images/600px-Flow_around_a_wing.gif
       :width: 600px

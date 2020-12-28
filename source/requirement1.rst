@@ -5,10 +5,12 @@ Requirement #1: Research and Reading
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}`  Choose A or B or C and complete ALL the requirements.
 
 A. Watch not less than three hours total of shows or documentaries that discuss fluid dynamics or a show related to fluid dynamics. Then do the following:
+
    (1) Make a list of at least five questions or ideas from the show(s) you watched.
    (2) Discuss two of the questions with or ideas with your counselor.
 
-   .. tip:: Some examples of shows to watch include—but are not limited to—`The STEM of Indoor Skydiving <https://youtu.be/V5jJ5FaX1ZU>`__; documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think such as “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.
+   .. tip:: Some examples of shows to watch include—but are not limited to—`The STEM of Indoor Skydiving <https://youtu.be/V5jJ5FaX1ZU>`__; documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think such as “fluid dynamics for kids” or “the science of skydiving for kids.”
+      You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.
 
 B. Read not less than three hours total about a topic related to fluid dynamics. Then do the following:
    

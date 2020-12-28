@@ -30,7 +30,9 @@ Welcome to Nova -- Up and Away
       :alt: alternate text
       :figclass: align-center
 		    
-      First flight of the Wright Flyer, December 17, 1903, Orville piloting, Wilbur running at wingtip. Image copied from `wikipedia <https://en.wikipedia.org/wiki/Wright_brothers>`__. If you travel to North Carolina, along the Atlantic shorelines, spend a few hours at the terrific museum, managed by the `US National Park Service <https://www.nps.gov/wrbr/index.htm>`__. As the website reminds the vistors: *They Taught the World to Fly!*
+      First flight of the Wright Flyer, December 17, 1903, Orville piloting, Wilbur running at wingtip. Image copied from `wikipedia <https://en.wikipedia.org/wiki/Wright_brothers>`__.
+
+   If you travel to North Carolina, along the Atlantic shorelines, spend a few hours at the terrific museum, managed by the `US National Park Service <https://www.nps.gov/wrbr/index.htm>`__. As the website reminds the visitors: *They Taught the World to Fly!*
 
 
 
