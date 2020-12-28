@@ -18,34 +18,34 @@ Requirement #4: Visit
 
 A. Visit an iFLY Indoor Skydiving wind tunnel facility or other BSA approved indoor skydiving wind tunnel and participate in a STEM Education program. Discuss the STEM concepts related to the tunnel with your counselor.
 
-.. tip:: A list of iFly centers in the North East (according to google map).
+   .. tip:: A list of iFly centers in the North East (according to google map).
 
-   .. figure:: _images/iFlygoogle.png
-      :width: 500px
-      :align: center
-      :alt: alternate text
-      :figclass: align-center
+      .. figure:: _images/iFlygoogle.png
+	 :width: 500px
+	 :align: center
+	 :alt: alternate text
+	 :figclass: align-center
 
 	    
 B. Visit an observatory, research facility, or a museum that highlights flight, aviation, or space. During your visit, talk to a docent or staff member about flight and fluid dynamics concepts covered at the site. Discuss what you learned with your counselor.
 
-.. tip:: find a list of some US museums at the bottom of this page!
+   .. tip:: find a list of some US museums at the bottom of this page!
 
 C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field.
 
-.. tip::
+   .. tip::
 
-   **A vitual Wind Tunnel: the physical facility is replaced by a computational (or virtual one).**
+      **A vitual Wind Tunnel: the physical facility is replaced by a computational (or virtual one).**
 
-   .. raw:: html
+      .. raw:: html
 
-      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/JA_nm1ysW0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/JA_nm1ysW0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-   **Developing military aircraft in a wind tunnel**
+      **Developing military aircraft in a wind tunnel**
 
-   .. raw:: html
+      .. raw:: html
 
-      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/TTN4xVi6UJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+	 <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/TTN4xVi6UJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
    
 .. note:: **Best Aviation Museums in the Country**
