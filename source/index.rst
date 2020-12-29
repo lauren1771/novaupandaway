@@ -17,6 +17,7 @@ Welcome to Nova -- Up and Away
    requirement3
    requirement4
    requirement5
+   Others
    contact
    
 
